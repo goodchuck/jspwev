@@ -6,7 +6,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viweport" content="width=device-width", initial-scale="1">
-<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/bootstrap.css"> <!-- 부트스트랩 css 사용 -->
 <link rel="stylesheet" href="css/custom.css">
 <title>웹 게시판</title>
 </head>
@@ -72,6 +72,7 @@
 			<div class="container">
 				<h1>웹 사이트 소개</h1>
 				<p>양티가 유튭보고 만듬</p>
+				<p>21/02/26 수정</p>
 				<p><a class="btn btn-primary btn-pull" href="#" role="button">자세히 알아보기</a></p>
 			</div>
 		</div>
@@ -85,13 +86,13 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="item active">
-					<img src="images/1.jpg">
+					<img src="images/체이서배메-프레이_2021-02-26 17_57.gif">
 				</div>
 				<div class="item">
-					<img src="images/2.png">
+					<img src="images/잘할게여-프레이_2021-02-26 17_57.gif">
 				</div>
 				<div class="item">
-					<img src="images/3.jpg">
+					<img src="images/국밥시너지-프레이_2021-02-26 17_58.gif">
 				</div>				
 			</div>
 			<a class="left carousel-control" href="#myCarousel" data-slide="prev">
