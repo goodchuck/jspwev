@@ -8,7 +8,7 @@
 <meta name="viweport" content="width=device-width", initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.css"> <!-- 부트스트랩 css 사용 -->
 <link rel="stylesheet" href="css/custom.css">
-<title>웹 게시판</title>
+<title>게임용 사이트</title>
 </head>
 <body>
 <%
