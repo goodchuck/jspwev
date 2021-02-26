@@ -32,6 +32,7 @@
 		<ul class = "nav navbar-nav">
 		<li class ="active"><a href="main.jsp">메인</a></li>
 		<li><a href="bbs.jsp">게시판</a></li>
+		<li><a href="day.jsp">일일과제표</a></li>
 		</ul>
 		<%
 			if(userID == null) {
@@ -70,7 +71,7 @@
 	<div class="container">
 		<div class="jumbotron">
 			<div class="container">
-				<h1>웹 사이트 소개</h1>
+				<h1>연습용 던파 사이트</h1>
 				<p>양티가 유튭보고 만듬</p>
 				<p>21/02/26 수정</p>
 				<p><a class="btn btn-primary btn-pull" href="#" role="button">자세히 알아보기</a></p>
@@ -103,6 +104,24 @@
 				<span class="glyphicon glyphicon-chevron-right"></span>
 			</a>
 		</div>
+	</div>
+	<div class="container" style="position: relative; left: 500px; width:500px">
+	<h1> 과제표</h1>
+		<div>
+			<p>일일 과제들</p>
+			<a>신지</a>
+			<a>연옥</a>
+			<a>현혹의 탑</a>
+			<a>제 1나락</a>
+			<a>항아리</a>
+		</div>
+		<div>
+			<p>주간 과제들</p>
+			<a>마계대전</a>
+			<a>오큘러스</a>
+			<a>산맥</a>
+			<a>주간연옥</a>
+	</div>
 	</div>
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<script src="js/bootstrap.js"></script>
