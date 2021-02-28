@@ -26,7 +26,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href = "main.jsp">JSP 게시판 웹 사이트</a> <!-- 로고같은것을 의미 -->
+				<a class="navbar-brand" href = "main.jsp">양티의 연습용 게시판</a> <!-- 로고같은것을 의미 -->
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		<ul class = "nav navbar-nav">
@@ -78,7 +78,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container" style="position: absolute; left: 500px; width:500px" >
+	<div class="container" style="position: absolute; left: 200px; width:500px" >
 	<h1>내 캐릭터 스펙들</h1>
 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 			<ol class="carousel-indicators">
@@ -105,7 +105,7 @@
 			</a>
 		</div>
 	</div>
-	<div class="container" style="position: relative; left: 500px; width:500px">
+	<div class="container" style="position: relative; left: 300px; width:500px">
 	<h1> 과제표</h1>
 		<div>
 			<p>일일 과제들</p>
